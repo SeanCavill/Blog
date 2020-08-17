@@ -23,9 +23,9 @@ Plagarism involves taking someone else's work and presenting it as your own. Thi
 
 Plagarism can be harmful to the original author(s), who have put in their own time, effort, and sometimes even money in order to create something. Without proper acknowledgment or permission it is equivalent stealing. The plagiriser is taking credit for the author(s) work without any form of compensation which can cause harm by taking away recognition which could lead to harm both monetary and career wise.
 
-##Blog 2 ontology and epistemology
+## Blog 2 ontology and epistemology
 
-###What is ontology? How is it relevant to research?
+### What is ontology? How is it relevant to research?
 
 Ontology is the study of existence, being, and what is. It deals with the nature of reality and what is possible for us to know about the world. Ontology is relevant to research as it allows the researcher to realize the nature and existence of what they are researching, what they can claim as truth or real, and how they can reconcile differences between other researchers conflicting views of reality.
 
@@ -33,7 +33,7 @@ Ontology is the study of existence, being, and what is. It deals with the nature
 
 Epistemology is the study of knowledge. It deals with questions such as: What can we know about reality? And how do we gather knowledge? What is knowledge and what can we know about the world fall under epistemology. Epistemology is important to research because it helps the researcher understand how to acquire and justify their knowledge on a topic.
 
-###What is the connection between ontology and epistemology in a research context?
+### What is the connection between ontology and epistemology in a research context?
 
 Ontology and Epistemology help create a framework in which researchers can interpret and discuss each other’s ideas. Ontology helps a researcher decide what it is they’re going to be researching, and epistemology aids them in the method of deciding how they’re going to gain information and knowledge about that reality.
 
@@ -45,25 +45,25 @@ The research paradigm – methodology, epistemology and ontology – explained i
 
 
 
-##Blog post 3 research paradigms
+## Blog post 3 research paradigms
 
 In class we discussed research paradigms. A research paradigm is a world view held by a researcher in which they use this paradigm to construct their research.  A research paradigm consists of ontology, epistemology, methodology and methods. Ontology is the question of what is, epistemology is what we know and can know about what is, methodologies are how we go about getting that knowledge, and methods are what we use to acquire that knowledge.
 
-###Below are the three paradigms we discussed
+### Below are the three paradigms we discussed
 
--Classic Scientific Paradigm.
+- Classic Scientific Paradigm.
 
 The classical scientific paradigm believes that only things that can be scientifically verifiable or proven through maths and logic are valid.
 
--Social Science paradigm
+- Social Science paradigm
 
 The social science paradigm believes truth is socially constructed and is constantly changing with society. All our social interactions are what frames our reality.
 
--Post Modernist paradigm
+- Post Modernist paradigm
 
 Post modernists reject the previous paradigms, instead choosing to believe everything is subjective or relative and that there is nothing that is objective.
 
-###What paradigm do I fall under?
+### What paradigm do I fall under?
 
 My work at NMIT has involved scientific paradigms. If I have to design a nice looking interface that is use friendly for say a website I need to be able to understand how people are going to interact with my website and what effects their way of thinking. I may also use the classical scientific approach to find out the most efficient way of implementing some code, or what component for a PC is best using facts and statistics.
 
