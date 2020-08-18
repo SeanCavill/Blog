@@ -77,11 +77,6 @@ DeCarlo, M. (2018). 6.2 Paradigms, theories, and how they shape a researcher’s
 
 Postmodernism Definition, Doctrines, & Facts. (n.d.). Encyclopedia Britannica. Retrieved August 18, 2020, from https://www.britannica.com/topic/postmodernism-philosophy
 
----
-layout: default
-comments: true
-# other options
----
 <div id="disqus_thread"></div>
 <script>
 
