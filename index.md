@@ -75,7 +75,7 @@ Overall I think all of the paradigms have their own validity and that there is n
 
 DeCarlo, M. (2018). 6.2 Paradigms, theories, and how they shape a researcher’s approach. In Scientific Inquiry in Social Work. Open Social Work Education. https://scientificinquiryinsocialwork.pressbooks.com/chapter/6-2-paradigms-theories-and-how-they-shape-a-researchers-approach/
 
-Postmodernism | Definition, Doctrines, & Facts. (n.d.). Encyclopedia Britannica. Retrieved August 18, 2020, from https://www.britannica.com/topic/postmodernism-philosophy
+Postmodernism Definition, Doctrines, & Facts. (n.d.). Encyclopedia Britannica. Retrieved August 18, 2020, from https://www.britannica.com/topic/postmodernism-philosophy
 
 
 
