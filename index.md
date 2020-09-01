@@ -77,6 +77,61 @@ DeCarlo, M. (2018). 6.2 Paradigms, theories, and how they shape a researcher’s
 
 Postmodernism Definition, Doctrines, & Facts. (n.d.). Encyclopedia Britannica. Retrieved August 18, 2020, from https://www.britannica.com/topic/postmodernism-philosophy
 
+
+
+# Blog post 5
+
+In this blog post I am going to discuss different sources for finding information, and the credibility of those sources. The two topics I am going to look into are Computational thinking and virtualistation technology. For both of these topics I will find 3 different sources for each and comment on how I found the article, who it was created by and how credible I think the source is.
+
+## Computational Thinking
+
+### First Source: https://royalsocietypublishing.org/doi/full/10.1098/rsta.2008.0118
+
+For my first source I went on to google scholar which I believe to be a good place to find academic articles. I googled the direct topic "Computational Thinking" and found the first source which wasn't behind a paywall. It was created by Jeanette M Wing and published on the 31/07/2008. It is as article discussing different topics surrounding computational thinking.
+
+Because of the methods I used to find the source I am already on the side of the article being credible. It contains an abstract, is well written and structured, and is hosted on a website called The Royal Society Publishing, which makes me believe it is a credible source for information.
+
+### Second Source: https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1
+
+For my second source I did a basic google search of computational thinking and looked through the top results that came up and chose an article by the BBC. There is no Author or date listed on the page. It is a revision guide.
+
+The page comes is more of a study guide rather than an article or a discussion on the topic. The use of different colors on the page, words being put in bold, and adverts makes me slightly question the credibility of the content. The way it is presented with images and headings makes me feel like the page is a little "dumbed down" and that it wouldn't have many high level ideas about the topics. The page also lists no author or reference which brings into doubt the methods used by them to gather information. However, because it is published by the BBC and I believe them to be a credible source(at least for educational content) I think the page has a moderite level of credibility.
+
+### Third Source: https://www.youtube.com/watch?v=qbnTZCj0ugI
+
+For my second source I decided to go to youtube and searched the question: "What is computational thinking?" And used the first result returned by the youtube algorithm. The video is created by a channel named Paxton/Patterson, and was published 9/5/2018. It is a video discussing what computational thinking and how it is used.
+
+The video is top of the search results  and has thosuands of views which would initially lead me to believe that it was popular and peer reviewed by other people. When I started the video, however, it had quite obnoxious music, sound effects, and editing style. The Likes and comments had also been disabled by the owners of the channel. Coming from youtube I wouldn't usually trust the validity of the information without looking through what other users had thought of it, so the fact that other user's ability to publically review and discuss the content was disabled I think the information could be poor.
+
+## Virtualisation Technology
+
+### First Source: https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/ebook/gated-vmw-ebook-virtualization-essentials.pdf
+
+When I used google to reserach virtulization technology, the first result was from VMware and their information page had further reading which led me to this PDF. The PDF itself has no listed author or date on it. The PDF introduces virtualisation and implementation of it.
+
+The PDF is layed out like a business document with a cover page, Table of contents, and page numbers which makes me believe it is credible as if they're willing to put work into the presentation they have likely put work into the research behind the content. It also containes references for where they have sourced information which in my opinion if you increase the amount of independent sources the information becomes more credible. A downside to the PDF is that it is created by a company who are interested in gaining clients to use their software, so any information they would try to portray is going to push their solutions.
+
+### Second Source: https://go-gale-com.nmit.idm.oclc.org/ps/retrieve.do?tabID=T002&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=880&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA232178970&docType=Report&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA232178970&searchId=R1&userGroupName=per_nmit&inPS=true
+
+For my second source I went through NMITs library services to find information on virtualisation technology. I ended up on Gale Academic OneFile and used the term "virtualization technology" to find the article.  The Author of the article is Dale L. Lunsford and the Date of publication is Fall 2009. The academic paper discusses virtualisation technologies in information systems education.
+
+Because I used a learning institutions resources I am more likely to believe the article is credible. It ticks off all the main components of an academic paper which makes me trust the source. 
+
+### Third Source: https://vietstack.wordpress.com/2014/10/03/introduction-of-virtualization/
+
+For the third source I decided to use google and search wordpress blogs for virtualization technology. The Author is "ViteStack" and the publication date is 3/10/2014. It is a blog post on virtualisation.
+
+I was first sceptical because it was a private word press blog which lowered the credibility I had for the source. The Author isn't listed as someone's name, but the name of the blog which makes it seem less professional. There is not a list of references on the page, and for some of the images it simple states Source:Google which shows a lack of credit to the original source. The presentation of the site does add some credibility as it is layed out nicely and uses nice font and headers.
+
+##Summary
+
+Throughout doing this blog I have recognized different sources and what makes a source seem credible to me. I am more likely to trust sources that are academic papers, and that I have found through a site or method that I trust. I have found that I don't have faith when it comes to sourcing my information from blogs and videos posted on youtube.
+
+
+
+
+
+
 <div id="disqus_thread"></div>
 <script>
 
