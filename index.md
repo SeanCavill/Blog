@@ -127,8 +127,143 @@ I was first sceptical because it was a private word press blog which lowered the
 
 Throughout doing this blog I have recognized different sources and what makes a source seem credible to me. I am more likely to trust sources that are academic papers, and that I have found through a site or method that I trust. I have found that I don't have faith when it comes to sourcing my information from blogs and videos posted on youtube.
 
+# Blog post 6 Meta-analysis
+
+## What is it?
+
+Meta-analysis is when researchers look at a number of studies in order to come to a conclusion by correlating the results of the studies.
+What kinds of questions/problems might it be useful for?
+A lot of studies don’t have a big enough sample size. Meta-analysis helps combat this and establish a significant correlation as it combines the pools of multiple studies in to one.
+
+## How could it be used in IT research?
+
+If there is an area of IT research that has a lot of conflicting or small sample size studies, meta-analysis can be used to combine these and create a more accurate representation of the data. For example you could combine research that looks at the effects of IT on learning in different parts of the world and use their data to get a more holistic view.
+
+## What are the strengths of the approach?
+
+As meta-analysis combines studies it is more evidence based and has a stronger case for the conclusion of the study. It also shows the results of studies on a wide range of people allowing for more accurate results overall.
+
+## What are the weaknesses of the approach?
+
+It takes a lot of time to find studies that have relevant and comparable data in order to combine into your research. Meta-analysis can also involve biases, as if you only use studies that affirm a point you are trying to show it can lead to poor results.
+
+## References
+Meta-Analysis—Study Design 101. (n.d.). Retrieved 10 September 2020, from https://himmelfarb.gwu.edu/tutorials/studydesign101/metaanalyses.cfm
+
+The Role of Meta-Analysis in Scientific Studies. (n.d.). Verywell Mind. Retrieved 10 September 2020, from https://www.verywellmind.com/definition-of-meta-analysis-425254
+
+# Res blog 7
+
+## First Article
+
+### Title and Author
+
+Anticipatory Cyber Security Research: An Ultimate Technique for the First-Move Advantage
+SRawal, Bharat; Liang, Songjie; Loukili, Alae; Duan, Qiang
+
+### APA Reference
+
+SRawal, B., Liang, S., Loukili, A., & Duan, Q. (2016). Anticipatory Cyber Security Research: An Ultimate Technique for the First-Move Advantage. TEM Journal; Novi Pazar, 5(1), 3–14. http://dx.doi.org.nmit.idm.oclc.org/10.18421/TEM51-01
+
+### How did I find the article?
+
+I found the article through pro quest using the NMIT library access. The keywords I used to find the article were “Cyber Security Research”
+
+### What kind of article is it?
+
+It is a journal paper
+
+### Why do I think it is an academic article?
+
+Well structured, published by scholars who hold positions at universities.
+
+How well does it fit the structure of an academic article?
+
+The article has a good title explaining the article. Authors are listed at the top of the paper along with their credentials. The article has an abstract which covers the paper. The paper has an introduction which introduces the topic. There is review of related work. The paper has a discussion section on their findings and has a conclusion below that.  They have a list of references. 
+ 
+### How many references does it have?
+
+The article has 56 references
+
+### Article link: 
+
+https://search-proquest-com.nmit.idm.oclc.org/docview/1955602489/fulltextPDF/66CDA84411144867PQ/2?accountid=40261
+
+### Would I be interested in reading the article?
+
+The paper is interesting and relevant as it discusses cyber security and what you can do to protect yourself. It is written by faculty and it is well layed out and cited.
+
+## Second Article
+
+### Title and Author
+
+GESTURE CONTROLLED HUMAN-COMPUTER INTERFACE FOR THE DISABLED
+Szczepaniak, Oskar M; Sawicki, Dariusz J 
+
+### APA Reference
+
+GESTURE CONTROLLED HUMAN-COMPUTER INTERFACE FOR THE DISABLED/SYSTEM STEROWANIA KOMPUTEREM ZA POMOCA GESTÓW PRZEZNACZONY DLA OSÓB NIEPELNOSPRAWNYCH - ProQuest. (2017, November 21). https://search-proquest-com.nmit.idm.oclc.org/docview/1877704968/87E4E8F4E0524455PQ/1?accountid=40261
+
+### How did I find the article?
+
+I found the article through pro quest using the NMIT library access. The keywords I used to find the article were “Human computer interface”
+
+### What kind of article is it?
+
+It is a journal paper
+
+### Why do I think it is an academic article?
+
+I think it is an academic article as it is structured like one, it is written by PHD students in the field, and is well formatted and referenced.
+
+### How well does it fit the structure of an academic article?
+
+The article has a good title that explains what the article is going to be about. The authors are clearly stated at the top of the articles. The article has an abstract which covers the paper. The paper has an introduction which introduces the topic. There is no review of other relevant papers, but it doesn’t seem relevant in the research they are carrying out. It contains a description of their methods and how they carried out their research. It has a results section showing the results of their research. They discuss the results of their research. They have a conclusion to their research. They have a list of references. 
+ 
+### How many references does it have?
+
+The article has 30 references
+
+Article link: https://search-proquest-com.nmit.idm.oclc.org/docview/1877704968/fulltext/87E4E8F4E0524455PQ/1?accountid=40261
+
+### Would I be interested in reading the article?
+
+I would be interested in reading the article as it discuses the possibility of the disabled using computer systems using gestures which is an important issue to me.
 
 
+# Res blog 8
+
+### The IT area/subject I have most enjoyed is….
+
+Software development
+
+### The IT area/subject I least enjoyed is…..
+
+Communications
+
+### The IT area/subject I was most interested in is…..
+
+Software Development
+
+### The one IT think I never want to have to do again is……
+
+Setting up Fail over clustering in windows server…..
+
+### I chose to study IT because I….
+
+Share interests with people in IT and enjoy it
+
+### If I couldn’t study IT I would study…..
+
+Mathematics
+
+### When I was a kid I wanted to be…..
+
+psychiatrist
+
+## One IT thing I would like to know more about is….
+
+Artificial intelligence 
 
 
 
