@@ -265,6 +265,50 @@ psychiatrist
 
 Artificial intelligence 
 
+#res blog 9
+
+## Ethics:
+
+“At its simplest, ethics is a system of moral principles. They affect how people make decisions and lead their lives.”
+(BBC - Ethics - Introduction to Ethics, n.d.)
+
+Assessment 3 involves ethical issues and so we are looking at ethics. Ethics involves social values, taking into consideration other people and how behaviour impacts society in a negative way.
+Any information I use in my assessment is going to need to be ethically sourced and I need to abide by creative commons licenses.
+
+##Ethical behaviour questions.
+
+### You find some good images on the web that would look good on your site. You copy and paste them to your blog:
+
+In this scenario it would be a legal issue where you would need to check the license for the image and see if it is available and what conditions need to be met to use it on your site. If you cannot find the license you would need to contact the author of the photograph and ask for their permission. 
+
+### You are in a hurry to finish an assignment and you find the perfect explanation of a difficult concept on wikipedia. You decide to copy it into your work.
+
+This is plagiarism which I mentioned in earlier blog posts. It is unethical and if it infringes on an author’s copyright it would be illegal. The best way to solve this would be to quickly re-write it in your own words and cite the author.
+
+### You are a medical researcher, and you think you have discovered a new drug that cures lung cancer. It worked well on mice although a few of them died of heart problems. You want to test it on people. You recruit 100 lung cancer patients into your treatment programme. You don’t tell them about the new drug. You treat 50 patients with usual drugs and 50 with the new drug to see which is better.
+
+Again, this would be highly illegal, you would lose your medical license and would be facing a long prison term. Even If the drug worked 100% of the time on mice it would need to be approved before testing and approved by the FDA before use on humans to make sure it is safe.  Putting people’s well being at stake especially without their knowledge is unethical. If the drug had passed initial testing phases and could be used on terminally ill patients with their consent in trials that would solve the issue and get results for the scientist.
+
+### You are doing your PhD about drug abuse among students. You interview 30 students about their drug use. You discover that one of the students is actually a fairly big-time dealer and you report him to the police.
+
+Even if the student being interviewed had a right to privacy I believe it would be unethical to not report them if they are creating a known harm to people by selling drugs.
+
+### You are a researcher looking at the effect of violent computer games on children. You recruit 20 children into your study. Over a month you regularly show them images of violence to see if it has an adverse effect on their behaviour. One of the children becomes quite distressed each time and so you stop showing her images and drop her from the study.
+
+I think dropping her from the is ethical as it is apparently causing harm to the child. The study should be done with the parents consent and psychological screening should be done on the children throughout the study to reduce harm.
+
+### You want to research how easy it is to hack into your organisation’s computer system by persuading people to divulge login and password details. You recruit a small team to ring up key people in the organisation and persuade them to give either their own or their boss’s details.
+
+If you have the permission of the owner of the organisation it would be ethical to test the security of the company. However if you don’t have the permission of the owner of the company this would be unethical and illegal, and so to prevent this you want to make sure you have written consent.
+
+### You are doing an initial research in area of a town where may bars and pubs are located, to estimate the level of problematic social behaviour in the area. your research is independent from the police, because you want to observe their behaviour as well. You observe both abusive and violent behaviour.
+
+I think this it is unethical to observe harm without trying to get at least police intervention. To solve this you would need to contact the police or try to de-escalate the situations yourself.
+
+
+BBC - Ethics - Introduction to ethics: Ethics: a general introduction. (n.d.). Retrieved November 8, 2020, from http://www.bbc.co.uk/ethics/introduction/intro_1.shtml
+
+
 
 
 <div id="disqus_thread"></div>
