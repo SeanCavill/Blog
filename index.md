@@ -265,7 +265,7 @@ psychiatrist
 
 Artificial intelligence 
 
-#res blog 9
+# res blog 9
 
 ## Ethics:
 
@@ -307,6 +307,24 @@ I think this it is unethical to observe harm without trying to get at least poli
 
 
 BBC - Ethics - Introduction to ethics: Ethics: a general introduction. (n.d.). Retrieved November 8, 2020, from http://www.bbc.co.uk/ethics/introduction/intro_1.shtml
+
+
+# res blog 10 
+
+## course review
+
+This course has covered and taught me about multiple topics that will help aid me in doing any further reasearh in a academic, moral, and ethical fashion.
+Some of the content this course has taught me are
+
+
+What research is and the tools and techniques that go into research. ontology and the epistimology which goes in to asking questions about the nature of existence. I enjoyed studying research paradigms and finding that I fit in to a more scientific paradigm when it comes to research as I like looking and reasearching things by what I can observe with numbers and math. I also learned about ethics and what role they play in research and society as a whole.
+
+This course was different than all the other courses so far and it made me start looking at things in a different perspective and definetly made me adopt a few new words into my vocabulary. I stop and think about whether sources I am getting information from are credilbe a lot more than I used to, and I belive I've become more aware of the harm seemingly innocent actions such as plagarism and piracy can have on the rightful owners of material.
+
+Probably the most frustrating part of the course is finding a research paper that isn't behind a paywall especially knowing that if I was to purchase the paper it wouldn't be going to the reasearcher themsevles.
+
+In summary I recognize the importance of this course and wny it is part of the curriculum, and I hope I am able to ecorporate what I have learned in my future learning.
+
 
 
 
